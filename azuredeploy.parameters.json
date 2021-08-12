@@ -38,9 +38,6 @@
         "useAvailabilityZones":{
             "value":false
         },
-        "appContainerName":{
-            "value":"f5devcentral/f5-demo-app:latest"
-        },
         "tagValues":{
             "value":{
                 "application":"APP",
